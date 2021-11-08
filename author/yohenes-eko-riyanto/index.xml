@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yohenes Eko Riyanto | Job Candidate</title>
+    <link>/author/yohenes-eko-riyanto/</link>
+      <atom:link href="/author/yohenes-eko-riyanto/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yohenes Eko Riyanto</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/media/sketch.png</url>
+      <title>Yohenes Eko Riyanto</title>
+      <link>/author/yohenes-eko-riyanto/</link>
+    </image>
+    
+    <item>
+      <title>Selection of Leadership: Effectiveness in Promoting Cooperation and Coordination under Asymmetric Information</title>
+      <link>/publication/working-paper-2/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/working-paper-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Structure and Collective Decision</title>
+      <link>/publication/working-paper-1/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/working-paper-1/</guid>
+      <description>&lt;p&gt;#Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

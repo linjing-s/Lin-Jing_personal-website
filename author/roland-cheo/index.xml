@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roland Cheo | Job Candidate</title>
+    <link>/author/roland-cheo/</link>
+      <atom:link href="/author/roland-cheo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Roland Cheo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Apr 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/media/sketch.png</url>
+      <title>Roland Cheo</title>
+      <link>/author/roland-cheo/</link>
+    </image>
+    
+    <item>
+      <title>House money effects, risk preferences and the public goods game</title>
+      <link>/publication/published-paper/</link>
+      <pubDate>Fri, 19 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/published-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
